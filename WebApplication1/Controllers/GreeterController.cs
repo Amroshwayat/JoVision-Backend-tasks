@@ -6,14 +6,11 @@ namespace YourNamespace.Controllers
     [Route("[controller]")]
     public class GreeterController : ControllerBase
     {
-     
+    
         [HttpGet]
         public IActionResult Get([FromQuery] string? name)
         {
-        
             var personName = string.IsNullOrWhiteSpace(name) ? "anonymous" : name;
-
-        
             return Ok($"Hello {personName}");
         }
     }
