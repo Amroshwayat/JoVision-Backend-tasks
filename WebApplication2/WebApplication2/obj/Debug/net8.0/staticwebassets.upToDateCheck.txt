@@ -1,2 +1,4 @@
 wwwroot\uploads\my_a425b640-6757-46d5-a292-1f04910e17b1.jpg
 wwwroot\uploads\my_a425b640-6757-46d5-a292-1f04910e17b1.json
+wwwroot\uploads\p2jpg_dcae20d0-2189-44b3-b6b8-be93b4d44d9a.json
+wwwroot\uploads\p2jpg_dcae20d0-2189-44b3-b6b8-be93b4d44d9a.jpg
