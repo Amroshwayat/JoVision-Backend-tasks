@@ -1,0 +1,2 @@
+wwwroot\uploads\my_a425b640-6757-46d5-a292-1f04910e17b1.jpg
+wwwroot\uploads\my_a425b640-6757-46d5-a292-1f04910e17b1.json
